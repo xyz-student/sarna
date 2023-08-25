@@ -1,0 +1,1 @@
+/home/elrrdtool/public_html/app/etc/local.xml

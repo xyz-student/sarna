@@ -1,0 +1,1 @@
+/home/amed/public_html/forum/config.php

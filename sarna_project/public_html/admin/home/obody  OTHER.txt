@@ -1,0 +1,1 @@
+/home/obody/public_htm/config.php

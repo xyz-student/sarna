@@ -1,0 +1,1 @@
+/home/elphpmyadmi/public_html/default/settings.php

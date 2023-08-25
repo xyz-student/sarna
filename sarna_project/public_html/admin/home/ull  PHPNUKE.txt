@@ -1,0 +1,1 @@
+/home/ull/public_htm/html/config.php

@@ -1,0 +1,1 @@
+/home/er/public_html/default/settings.php

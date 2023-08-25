@@ -1,0 +1,1 @@
+/home/ull/public_html/blog/configuration.php

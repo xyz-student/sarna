@@ -1,0 +1,1 @@
+/home/elrou/public_html/application/config/database.php

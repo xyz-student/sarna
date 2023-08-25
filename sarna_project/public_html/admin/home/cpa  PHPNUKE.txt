@@ -1,0 +1,1 @@
+/home/cpa/public_htm/html/config.php
